@@ -1,4 +1,4 @@
-# Simple-Basic-WebScrapper
+# SCRAPPY-WebScrapper
 
 ![Python](https://img.shields.io/badge/python-3.6+-blue.svg)
 ![BeautifulSoup4](https://img.shields.io/badge/BeautifulSoup-4-green.svg)
